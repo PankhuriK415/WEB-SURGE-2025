@@ -15,7 +15,7 @@ Create your own copy of this repository by forking it. If you're unsure how, wat
 ### 3. Clone Your Fork
 Clone your forked repository to your local machineand:
 ```bash
- git clone <your-forked-repository-URL>
+ git clone <your-forked-repositorL>
 ```
 
 ### 4. Develop Locally
